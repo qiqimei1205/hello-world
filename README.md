@@ -1,2 +1,2 @@
 # hello-world
-KIKI‘s initial progrmming
+KIKI‘s initial progrmming.
